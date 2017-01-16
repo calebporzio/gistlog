@@ -12,6 +12,6 @@
         </a>
     </div>
     <div class="screenshot">
-        <img src="{{ asset('img/intro-screenshot.png' )}}" alt="Abstracted illustration of a GistLog blog post.">
+        <img src="{{ asset('img/intro-screenshot.png') }}" alt="Abstracted illustration of a GistLog blog post.">
     </div>
 </section>
