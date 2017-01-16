@@ -16,7 +16,7 @@
     </div>
     <div class="screenshot">
         <a href="https://gistlog.co/mattstauffer/1c76d40371b295184845">
-            <img src="{{ asset('img/features-screenshot.png' )}}" alt="Screenshot of a typical Gistlog post">
+            <img src="{{ asset('img/features-screenshot.png') }}" alt="Screenshot of a typical Gistlog post">
         </a>
     </div>
     <div class="list right">
